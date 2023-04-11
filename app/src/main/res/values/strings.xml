@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Tienda El Naranjo</string>
+
+    //MainActivity
+    <string name="bienvenida">Bienvenido Ingresa tu Nombre</string>
+    <string name="nombre"></string>
+    <string name="ingresar">Ingresar</string>
+
+    //MenuPrincipal
+    <string name="saludo">Saludo</string>
+    <string name="regresar">Regresar</string>
+    <string name="inicio">Ir a Inicio</string>
+    <string name="laterias">Laterias</string>
+    <string name="leches">Leches</string>
+    <string name="detergentes">Detergentes</string>
+
+    <string name="IB">Informacion</string>
+
+    //Menu Lateria
+    <string name="Selecciona">Selecciona Tu Producto</string>
+
+    //Botones Mas-Menos
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="total">Pagar Total</string>
+    <string name="cantidad">0</string>
+
+    //Pantalla Final
+    <string name="producto">Producto</string>
+    <string name="precioTotal">Precio Total</string>
+
+    //Detalle Atun
+    <string name="detalleAtun">Detalle</string>
+    <string name="precioAtun">$17.00</string>
+
+    //Detalle Elote
+    <string name="detalleElote">Detalle</string>
+    <string name="precioElote">$12.00</string>
+
+    //Detalle Frijol
+    <string name="detalleFrijol">Detalle</string>
+    <string name="precioFrijol">$15.00</string>
+
+    //Detalle Rajas
+    <string name="detalleRajas">Detalle</string>
+    <string name="precioRajas">$15.00</string>
+
+    //Detalle Alpura
+    <string name="detalleAlpura">Detalle</string>
+    <string name="precioAlpura">$29.00</string>
+
+    //Detalle Deslactosada
+    <string name="detalleDeslactosada">Detalle</string>
+    <string name="precioDeslactosada">$27.00</string>
+
+    //Detalle Proteina
+    <string name="detalleProteina">Detalle</string>
+    <string name="precioProteina">$32.00</string>
+
+    //Detalle Lechera
+    <string name="detalleLechera">Detalle</string>
+    <string name="precioLechera">$20.00</string>
+
+    //Detalle Ace
+    <string name="detalleAce">Detalle</string>
+    <string name="precioAce">$22.00</string>
+
+    //Detalle Axion
+    <string name="detalleAxion">Detalle</string>
+    <string name="precioAxion">$24.00</string>
+
+    //Detalle Roma
+    <string name="detalleRoma">Detalle</string>
+    <string name="precioRoma">$25.00</string>
+
+    //Detalle Salvo
+    <string name="detalleSalvo">Detalle</string>
+    <string name="precioSalvo">$31.00</string>
+
+</resources>
